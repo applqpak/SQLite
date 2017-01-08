@@ -1,2 +1,1 @@
-# SQLite
-Easy-to-use PDO/SQLite wrapper class
+# [USAGE](https://github.com/applqpak/SQLite/blob/master/src/SQLite/example.php)
